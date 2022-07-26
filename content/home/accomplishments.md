@@ -32,18 +32,25 @@ item:
 #     title: Neural Networks and Deep Learning
 #     url: ''
   - date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    title: Blockchain Fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    date_start: '2019'
+    description: 
+    title: 108????????????????????
 
+  - date_end: ''
+    date_start: '2019'
+    description: 
+    title: ??????108??????????
+
+  - date_end: ''
+    date_start: '2019'
+    description: IEEE Membership upgrade
+    title: IEEE Senior Member
+    
+  - date_end: ''
+    date_start: '2018'
+    description: 
+    title: ??????107??????????
+    
 design:
   columns: '2'
 ---
