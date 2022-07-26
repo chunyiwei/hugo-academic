@@ -4,7 +4,7 @@ role: Associate Professor of Department of Communication Engineering
 bio: ""
 interests:
   - Localization in Wireless Network
-  - Vehicular-to-Everthing (V2X) Network
+  - Vehicle-to-Everthing (V2X) Network
   - Device-to-Device (D2D Communication
   - Massive MIMO
 social:
