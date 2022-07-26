@@ -10,7 +10,7 @@ interests:
 social:
   - display:
       header: true
-    icon_pack: ai
+    icon_pack: far
     link: https://www.researchgate.net/profile/Chun-Yi-Wei-2
     icon: https://pics.freeicons.io/uploads/icons/png/9191096581579517872-512.png
 organizations:
