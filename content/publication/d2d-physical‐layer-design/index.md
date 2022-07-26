@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Chun-Yi Wei
 doi: 10.1002/9781119471509.w5gref178
-publication: Wiley 5G Ref
+publication: IEEE Wiley 5G Ref
 abstract: The device‐to‐device (D2D) communication technology is one of the most
   significant evolutionary development of the LTE system. It introduces the new
   defined physical‐layer sidelink channel for the direct transmission between
