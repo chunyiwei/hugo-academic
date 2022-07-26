@@ -9,7 +9,7 @@ interests:
   - Massive MIMO
 social:
   - display:
-      header: false
+      header: true
     icon_pack: ai
     link: https://www.researchgate.net/profile/Chun-Yi-Wei-2
     icon: https://pics.freeicons.io/uploads/icons/png/9191096581579517872-512.png
