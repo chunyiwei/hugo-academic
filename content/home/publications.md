@@ -7,7 +7,7 @@ title: Recent Publications
 subtitle: ''
 
 # Position of this section on the page
-weight: 1
+weight: 90
 
 content:
   # Filter content to display
