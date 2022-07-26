@@ -6,6 +6,7 @@ publication_types:
 authors:
   - Chun-Yi Wei and Ching-Chih Chen
 doi: 10.1109/JSEN.2022.3193021
+publication: IEEE Sensors Journal
 draft: false
 featured: false
 image:
