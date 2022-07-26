@@ -1,6 +1,6 @@
 ---
-widget: "Featured Content "
-widget_id: Recent-Publications
+widget: "Content Feed "
+widget_id: Recent-publications
 headless: true
 weight: 90
 title: Recent Publications
