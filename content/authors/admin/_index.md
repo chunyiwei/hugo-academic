@@ -9,7 +9,6 @@ interests:
   - Massive MIMO
 organizations:
   - name: National Taipei University
-    url: https://www.ntpu.edu.tw/
 education:
   courses:
     - course: PhD in Wireless Communications
