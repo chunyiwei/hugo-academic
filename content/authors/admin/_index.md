@@ -7,6 +7,12 @@ interests:
   - Vehicular-to-Everthing (V2X) Network
   - Device-to-Device (D2D Communication
   - Massive MIMO
+social:
+  - display:
+      header: false
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Chun-Yi-Wei-2
+    icon: https://pics.freeicons.io/uploads/icons/png/9191096581579517872-512.png
 organizations:
   - name: National Taipei University
 education:
