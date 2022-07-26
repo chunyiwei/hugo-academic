@@ -1,5 +1,5 @@
 ---
-title: D2D Physical‐Layer Design
+title: D2D Physical-Layer Design
 publication_types:
   - "6"
 authors:
