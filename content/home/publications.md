@@ -1,20 +1,22 @@
 ---
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-headless: true  # This file represents a page section.
 
-# ... Put Your Section Options Here (title etc.) ...
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 90
+
 title: Recent Publications
 subtitle: ''
 
-# Position of this section on the page
-weight: 90
-
 content:
-  # Filter content to display
+  # Filter on criteria
   filters:
-    # The folders to display content from
     folders:
-      - post
+      - publication
     tag: ''
     category: ''
     publication_type: ''
@@ -23,16 +25,17 @@ content:
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
-  count: 10
+  count: 0
   # Choose how many pages you would like to offset by
-  # Useful if you wish to show the first item in the Featured widget
   offset: 0
-  # Field to sort by, such as Date or Title
-  sort_by: 'Date'
-  sort_ascending: false
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
 design:
-  # Choose a listing view
-  view: compact
-  # Choose how many columns the section has. Valid values: '1' or '2'.
+  # Choose a view for the listings:
+  view: citation
   columns: '2'
 ---
+
+{{% callout note %}}
+Quickly discover relevant content by [filtering publications](./publication/).
+{{% /callout %}}
