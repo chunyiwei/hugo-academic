@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chun-Yi WEI
+title: Chun-Yi WEI, Ph.D.
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,7 +22,7 @@ interests:
   - Vehicular-to-Everthing (V2X) Network
   - Device-to-Device (D2D Communication
   - Massive MIMO
-  - Distributed (Cell-free) MIMO 
+#  - Distributed (Cell-free) MIMO 
 
 # Education to show in About widget
 education:
@@ -72,6 +72,6 @@ email: ''
 highlight_name: true
 ---
 
-Chun-Yi WEI is a faulty member of Department of Communications Engineering at National Taipei University, Taiwan. His current research interests include wireless networks and mobile systems, particularly in localization in wireless  networks, Device-to-Device (D2D) communications, and Cellular Vehicle-to-Everything (C-V2X) communications. He also collaborated with the industry and conducted the invention of several essential patents for D2D and C-V2X. 
+Dr. Chun-Yi WEI is a faulty member of Department of Communications Engineering at National Taipei University, Taiwan. His current research interests include wireless networks and mobile systems, particularly in localization in wireless  networks, Device-to-Device (D2D) communications, and Cellular Vehicle-to-Everything (C-V2X) communications. He also collaborated with the industry and conducted the invention of several essential patents for D2D and C-V2X. 
 
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
