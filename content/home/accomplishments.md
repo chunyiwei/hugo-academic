@@ -32,24 +32,24 @@ item:
 #     title: Neural Networks and Deep Learning
 #     url: ''
   - date_end: ''
-    date_start: '2019'
+    date_start: '2019-08-01'
     description: 
-    title: 108????????????????????
+    title: 108年度科技部「大專校院勵特殊優秀人才」獎勵
 
   - date_end: ''
-    date_start: '2019'
+    date_start: '2019-08-01'
     description: 
-    title: ??????108??????????
+    title: 國立台北大學108年度外語授課優良教師
 
   - date_end: ''
-    date_start: '2019'
-    description: IEEE Membership upgrade
+    date_start: '2019-08-01'
+    description: 
     title: IEEE Senior Member
     
   - date_end: ''
-    date_start: '2018'
+    date_start: '2018-08-01'
     description: 
-    title: ??????107??????????
+    title: 國立台北大學107年度產學合作績優教師
     
 design:
   columns: '2'
