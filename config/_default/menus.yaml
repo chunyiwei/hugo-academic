@@ -10,6 +10,9 @@ main:
   - name: Posts
     url: '#posts'
     weight: 20
+  - name: Researchgate
+    url: 'https://www.researchgate.net/profile/Chun-Yi-Wei-2'
+    weight: 30
 #  - name: Projects
 #    url: '#projects'
 #    weight: 30
@@ -17,8 +20,7 @@ main:
 #    url: '#talks'
 #    weight: 40
   - name: Publications
-#    url: '#publications'
-     url: 'https://scholar.google.com.tw/citations?user=Jxan7oIAAAAJ&hl=en'
+    url: '#publications'
     weight: 50
   - name: Contact
     url: '#contact'
