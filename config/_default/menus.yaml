@@ -17,7 +17,8 @@ main:
 #    url: '#talks'
 #    weight: 40
   - name: Publications
-    url: '#publications'
+#    url: '#publications'
+     url: 'https://scholar.google.com.tw/citations?user=Jxan7oIAAAAJ&hl=en'
     weight: 50
   - name: Contact
     url: '#contact'
