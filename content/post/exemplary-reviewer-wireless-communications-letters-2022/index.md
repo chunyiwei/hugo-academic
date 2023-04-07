@@ -6,6 +6,6 @@ featured: false
 image:
   filename: untitled.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 Exemplary Reviewer-Wireless Communications Letters 2022
