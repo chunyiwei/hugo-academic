@@ -14,7 +14,7 @@ main:
     url: 'https://www.researchgate.net/profile/Chun-Yi-Wei-2'
     weight: 30
   - name: Google Scholar
-    url: 'https://scholar.google.com.tw/citations?user=Jxan7oIAAAAJ&hl=en'
+    url: 'https://scholar.google.com.tw/citations?hl=en&user=Jxan7oIAAAAJ&view_op=list_works&sortby=pubdate'
     weight: 50
 #  - name: Projects
 #    url: '#projects'
