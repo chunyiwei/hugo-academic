@@ -1,6 +1,6 @@
 ---
 title: Chun-Yi WEI, Ph.D.
-role: Associate Professor of Department of Communication Engineering
+role: Professor of Department of Communication Engineering
 bio: ""
 interests:
   - Localization in Wireless Network
